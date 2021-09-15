@@ -12,7 +12,7 @@ int main(){
 	salary = hours * amount;
 	
 	printf("NUMBER = %i\n", number);
-	printf("SALARY =  U$ %.2f\n", salary);
+	printf("SALARY = U$ %.2f\n", salary);
 	
 	return 0;
 }
