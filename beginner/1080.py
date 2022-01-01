@@ -1,9 +1,9 @@
 n = 0
 highest = 0
 inputPosition = 0
-i = 0
+i = 1
 
-while i < 10:
+while i <= 100:
 	n = int(input())
 	if n > highest:
 		highest = n
