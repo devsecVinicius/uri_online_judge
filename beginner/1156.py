@@ -1,4 +1,3 @@
-auxiliar = 0
 s = 1
 n1 = 3
 n2 = 2
